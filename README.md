@@ -9,3 +9,4 @@ J'ai utilisé body-parser pour extraire les données de la requête et les utili
 J'ai utilisé le jwt pour implémenter l'authentificaiton et l'autorisation dans mon app. Il me permet de générer un token contenant les informations de l'utilisateur, il est unique, avec une clé secrète. Avec Postman, je vérifie la validité du token et vérifie la signature.
 # BackNodeJs
 # BackNodeJs
+# BackNodeJs
